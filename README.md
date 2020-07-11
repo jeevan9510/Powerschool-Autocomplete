@@ -1,7 +1,7 @@
 # Powerschool-Autocomplete
 I have used the data file of english words which was downloaded from kaggle.I uploaded data file. so dont worry about the data file.
 
-steps to run the Project
+# STEPS TO RUN THE PROJECT
 1)open Netbeans
 2)create new web project(name of the project is as your wish)
 3)upload all the file in created project(index.jsp  ,  List.jsp  ,  style.css  ,  jquery-1.4.2.min.js , jquery.autocomplete.js , indicator.gif  , search.png )
