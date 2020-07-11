@@ -1,0 +1,46 @@
+.ac_results {
+	padding: 0px;
+	border: 0px solid blue;
+	background-color: white;
+        overflow: hidden;
+}
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.ac_results li {
+	margin: 0px;
+	padding: 0px 0px;
+	cursor: default;
+	display: block;
+	color: black;
+	font-family:verdana;
+	font-size: 12px;
+	line-height: 16px;
+	overflow: hidden;
+}
+.ac_loading {
+	background: red url('indicator.gif') right center repeat;
+}
+.ac_odd {
+	background-color: white;
+	color: #ffffff;
+}
+.ac_over {
+	background-color: blue;
+	color: #ffffff;
+}
+.input_text{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:20px;
+	border:1px solid #84a10b;
+	padding:2px;
+	width:150px;
+	color:#000;
+	background:white url('search.png') repeat 3px 2px;
+        
+	padding-left:17px;
+}
